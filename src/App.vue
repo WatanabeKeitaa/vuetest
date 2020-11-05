@@ -2,6 +2,8 @@
   <div id="app">
     <img src="./assets/logo.png">
     <router-view/>
+    <router-link to="/test">testページにいく</router-link>
+    <router-link to="/">ホームにいく</router-link>
   </div>
 </template>
 
