@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
-    <div>編集しました。</div>
+    <div>秋葉編集しました。</div>
+    <div>大城編集しました。</div>
   </div>
 </template>
 
